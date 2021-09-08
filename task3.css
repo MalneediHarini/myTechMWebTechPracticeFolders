@@ -1,0 +1,17 @@
+#textbox {
+           height:20px;
+           width: 250px;
+         }
+#msg {
+        height:60px;
+        width:350px;
+     }
+#sub{
+      background-color: black;
+      height:30px;
+      width:100px;
+}
+body{ background-color: grey;}
+#text { width:500px;
+        height: 60px;
+      }
